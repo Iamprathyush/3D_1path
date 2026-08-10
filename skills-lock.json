@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "modsearch": {
+      "source": "liustack/modsearch",
+      "sourceType": "github",
+      "skillPath": "skills/modsearch/SKILL.md",
+      "computedHash": "13cad472cff540facf6c9feb11e426613fd0e8aa7b9cb94af4698227cfa1356a"
+    }
+  }
+}
